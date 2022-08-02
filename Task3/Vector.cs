@@ -4,6 +4,7 @@ namespace Task3
 {
     internal class Vector
     {
+
         int[] array { get; set; }
 
         public int this[int index]
